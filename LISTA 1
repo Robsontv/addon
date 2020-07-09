@@ -1,0 +1,100 @@
+#EXTM3U
+
+#EXTINF:-1,A&E
+https://stream.ec.cx/a/hls1/aie.m3u8
+
+#EXTINF:-1,AMC
+https://stream.ec.cx/a/hls1/amc.m3u8
+
+#EXTINF:-1,AXN
+https://stream.ec.cx/a/hls1/axn.m3u8
+
+#EXTINF:-1,CANAL BRASIL
+https://stream.ec.cx/a/hls1/canalbrasil.m3u8
+
+#EXTINF:-1,CINEMAX
+https://stream.ec.cx/a/hls1/cinemax.m3u8
+
+#EXTINF:-1,FOX
+https://stream.ec.cx/a/hls1/fox.m3u8
+
+#EXTINF:-1,FOX PREMIUM 1
+https://stream.ec.cx/a/hls1/foxpremium1.m3u8
+
+#EXTINF:-1,FOX PREMIUM 2
+https://stream.ec.cx/a/hls1/foxpremium2.m3u8
+
+#EXTINF:-1,FX
+https://stream.ec.cx/a/hls1/fx.m3u8
+
+#EXTINF:-1,HBO
+https://stream.ec.cx/a/hls1/hbo.m3u8
+
+#EXTINF:-1,HBO 2
+https://stream.ec.cx/a/hls1/hbo2.m3u8
+
+#EXTINF:-1,HBO FAMILY
+https://stream.ec.cx/a/hls1/hbofamily.m3u8
+
+#EXTINF:-1,HBO PLUS
+https://stream.ec.cx/a/hls1/hboplus.m3u8
+
+#EXTINF:-1,HBO SIGNATURE
+https://stream.ec.cx/a/hls1/hbosignature.m3u8
+
+#EXTINF:-1,MAX
+https://stream.ec.cx/a/hls1/max.m3u8
+
+#EXTINF:-1,MAX PRIME
+https://stream.ec.cx/a/hls1/maxprime.m3u8
+
+#EXTINF:-1,MAX UP
+https://stream.ec.cx/a/hls1/maxup.m3u8
+
+#EXTINF:-1,MEGAPIX
+https://stream.ec.cx/a/hls1/megapix.m3u8
+
+#EXTINF:-1,PARAMOUNT
+https://stream.ec.cx/a/hls1/paramount.m3u8
+
+#EXTINF:-1,SONY
+https://stream.ec.cx/a/hls1/sony.m3u8
+
+#EXTINF:-1,SPACE
+https://stream.ec.cx/a/hls1/space.m3u8
+
+#EXTINF:-1,STUDIO UNIVERSAL
+https://stream.ec.cx/a/hls1/studiouniversal.m3u8
+
+#EXTINF:-1,TCM
+https://stream.ec.cx/a/hls1/tcm.m3u8
+
+#EXTINF:-1,TELECINE ACTION
+https://stream.ec.cx/a/hls1/telecineaction.m3u8
+
+#EXTINF:-1,TELECINE CULT
+https://stream.ec.cx/a/hls1/telecinecult.m3u8
+
+#EXTINF:-1,TELECINE FUN
+https://stream.ec.cx/a/hls1/telecinefun.m3u8
+
+#EXTINF:-1,TELECINE PIPOCA
+https://stream.ec.cx/a/hls1/telecinepipoca.m3u8
+
+#EXTINF:-1,TELECINE PREMIUM
+https://stream.ec.cx/a/hls1/telecinepremium.m3u8
+
+#EXTINF:-1,TELECINE TOUCH
+https://stream.ec.cx/a/hls1/telecinetouch.m3u8
+
+#EXTINF:-1,TNT
+https://stream.ec.cx/a/hls1/tnt.m3u8
+
+#EXTINF:-1,TNT SERIES
+https://stream.ec.cx/a/hls1/tntseries.m3u8
+
+#EXTINF:-1,UNIVERSAL CHANNEL
+https://stream.ec.cx/a/hls1/universal.m3u8
+
+#EXTINF:-1,WARNER CHANNEL
+https://stream.ec.cx/a/hls1/warner.m3u8
