@@ -1,6 +1,6 @@
 #EXTM3U
 
-||||| FILMES E SÉRIES |||||
+#EXTINF:-1,||||| FILMES E SÉRIES |||||
 #EXTINF:-1,A&E
 https://stream.ec.cx/a/hls1/aie.m3u8
 
@@ -101,7 +101,7 @@ https://stream.ec.cx/a/hls1/universal.m3u8
 https://stream.ec.cx/a/hls1/warner.m3u8
 
 
-||||| INFANTIS |||||
+#EXTINF:-1,||||| INFANTIS |||||
 
 #EXTINF:-1,BOOMERANG
 https://stream.ec.cx/a/hls1/boomerang.m3u8
@@ -143,7 +143,7 @@ https://stream.ec.cx/a/hls1/tooncast.m3u8
 https://stream.ec.cx/a/hls1/zoomoo.m3u8
 
 
-||||| DOCUMENTÁRIOS |||||
+#EXTINF:-1,||||| DOCUMENTÁRIOS |||||
 
 
 #EXTINF:-1,ANIMAL PLANET
@@ -174,7 +174,7 @@ https://stream.ec.cx/a/hls1/natgeo.m3u8
 https://stream.ec.cx/a/hls1/natgeowild.m3u8
 
 
-||||| VARIEDADES |||||
+#EXTINF:-1,||||| VARIEDADES |||||
 
 #EXTINF:-1,ARTE 1
 https://stream.ec.cx/a/hls1/arte1.m3u8
