@@ -1,5 +1,6 @@
 #EXTM3U
 
+||||| FILMES E SÉRIES |||||
 #EXTINF:-1,A&E
 https://stream.ec.cx/a/hls1/aie.m3u8
 
@@ -100,6 +101,8 @@ https://stream.ec.cx/a/hls1/universal.m3u8
 https://stream.ec.cx/a/hls1/warner.m3u8
 
 
+||||| INFANTIS |||||
+
 #EXTINF:-1,BOOMERANG
 https://stream.ec.cx/a/hls1/boomerang.m3u8
 
@@ -138,6 +141,102 @@ https://stream.ec.cx/a/hls1/tooncast.m3u8
 
 #EXTINF:-1,ZOOMOO
 https://stream.ec.cx/a/hls1/zoomoo.m3u8
+
+
+||||| DOCUMENTÁRIOS |||||
+
+
+#EXTINF:-1,ANIMAL PLANET
+https://stream.ec.cx/a/hls1/animalplanet.m3u8
+
+
+#EXTINF:-1,DISCOVERY
+https://stream.ec.cx/a/hls1/discovery.m3u8
+
+
+#EXTINF:-1,DISCOVERY SCIENCE
+https://stream.ec.cx/a/hls1/discoverysience.m3u8
+
+
+#EXTINF:-1,DISCOVERY THEATER
+https://stream.ec.cx/a/hls1/discoverytheater.m3u8
+
+
+#EXTINF:-1,HISTORY 2
+https://stream.ec.cx/a/hls1/history2.m3u8
+
+
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+https://stream.ec.cx/a/hls1/natgeo.m3u8
+
+
+#EXTINF:-1,NATGEO WILD
+https://stream.ec.cx/a/hls1/natgeowild.m3u8
+
+
+||||| VARIEDADES |||||
+
+#EXTINF:-1,ARTE 1
+https://stream.ec.cx/a/hls1/arte1.m3u8
+
+#EXTINF:-1,BIS
+https://stream.ec.cx/a/hls1/bis.m3u8
+
+#EXTINF:-1,CANAL E!
+https://stream.ec.cx/a/hls1/canale.m3u8
+
+#EXTINF:-1,COMEDY CENTRAL
+https://stream.ec.cx/a/hls1/comedycentral.m3u8
+
+#EXTINF:-1,CURTA
+https://stream.ec.cx/a/hls1/curta.m3u8
+
+#EXTINF:-1,DISCOVERY HOME & HEALTH
+https://stream.ec.cx/a/hls1/discoveryhomeihealth.m3u8
+
+#EXTINF:-1,DISCOVERY WORLD
+https://stream.ec.cx/a/hls1/discoveryworld.m3u8
+
+#EXTINF:-1,FISH TV
+https://stream.ec.cx/a/hls1/fishtv.m3u8
+
+#EXTINF:-1,FOOD NETWORK
+https://stream.ec.cx/a/hls1/foodnetwork.m3u8
+
+#EXTINF:-1,FOX LIFE
+https://stream.ec.cx/a/hls1/foxlife.m3u8
+
+#EXTINF:-1,GNT
+https://stream.ec.cx/a/hls1/gnt.m3u8
+
+#EXTINF:-1,INVESTIGAÇÃO DISCOVERY
+https://stream.ec.cx/a/hls1/investigacaodiscovery.m3u8
+
+#EXTINF:-1,LIFETIME
+https://stream.ec.cx/a/hls1/lifetime.m3u8
+
+#EXTINF:-1,MTV
+https://stream.ec.cx/a/hls1/mtv.m3u8
+
+#EXTINF:-1,MTV LIVE
+https://stream.ec.cx/a/hls1/mtvlive.m3u8
+
+#EXTINF:-1,MULTISHOW
+https://stream.ec.cx/a/hls1/multishow.m3u8
+
+#EXTINF:-1,OFF
+https://stream.ec.cx/a/hls1/off.m3u8
+
+#EXTINF:-1,TLC
+https://stream.ec.cx/a/hls1/tlc.m3u8
+
+#EXTINF:-1,VIVA
+https://stream.ec.cx/a/hls1/viva.m3u8
+
+
+
+
+
 
 
 
